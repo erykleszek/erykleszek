@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I’m Eryk Leszek
+## Junior Java Developer 👨‍💻
 
-<!--
-**erykleszek/erykleszek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am an aspiring Junior Java Developer with a passion for programming and creating efficient, scalable solutions. I am enthusiastic about continuous learning 📚 and ready to grow in a dynamic work environment. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 💡
+- **Java** – Strong understanding of Java fundamentals, including data types, classes, and objects.
+
+- **Spring Framework (basic)** – Familiarity with Spring, including Spring Boot, application configuration, and dependency injection.
+- **Git** – Understanding of version control, working with repositories, and resolving merge conflicts.
+
+
+## Experience 💻
+- **Java programming course organized by the Orange Foundation** 
+
+
+## Goals 🎯
+- **Backend development** – I aim to grow my skills in backend technologies, focusing on Spring, microservices, and database integration.
+
